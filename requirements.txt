@@ -1,0 +1,17 @@
+langchain
+langgraph==0.1.15
+langchain_openai
+langchain_community
+instructor
+jsonref
+openai
+pydantic
+tavily-python
+pandas
+chromadb
+plotly
+streamlit
+pyngrok
+nbformat
+nbconvert
+pygit2==1.15.1
